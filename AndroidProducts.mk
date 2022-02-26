@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_fh50lm.mk
+    $(LOCAL_DIR)/twrp_fh50lm.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_fh50lm-user \
-    omni_fh50lm-userdebug \
-    omni_fh50lm-eng
+    twrp_fh50lm-user \
+    twrp_fh50lm-userdebug \
+    twrp_fh50lm-eng
